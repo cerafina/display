@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid" width="15" height="15" viewBox="0 0 15 15">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #737373;
+      }
+    </style>
+  </defs>
+  <g>
+    <rect y="12" width="15" height="3" class="cls-1"/>
+    <rect y="5.969" width="15" height="3.031" class="cls-1"/>
+    <rect y="-0.031" width="15" height="3.031" class="cls-1"/>
+  </g>
+</svg>
