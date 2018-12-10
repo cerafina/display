@@ -1,0 +1,238 @@
+#header_area{
+    padding: 15px 0;
+    width: 100%;
+}
+#header_area .row{
+    padding: 15px 0;
+}
+.animation-img{
+    opacity: 0;
+}
+#nav{
+    padding: 15px 0;
+}
+#slider{
+    padding: 15px 0;
+}
+.browseportfolio{
+    background-color: rgb(46, 204, 113);
+    padding: 15px 20px;
+    text-align: center;
+    font-size: 14px;
+    color: rgb(255, 255, 255);
+    text-transform: uppercase;
+    line-height: 1.286;
+}
+.textplace{
+    font-size: 16px;
+    font-family: "Myriad Pro";
+    color: rgb(174, 173, 173);
+    line-height: 1.5;
+    text-align: center;
+    margin: 15px 20px;
+}
+.videosection{
+    padding: 50px 0;
+    width: 100%;
+    background-color: rgb(239, 239, 239);
+    opacity: 0.9;
+    
+}
+.textnowusplace{
+    padding-left: 30px;
+}
+.gettoknowus{
+   
+  font-size: 24px;
+  font-family: "Myriad Pro";
+  color: rgb(115, 115, 115);
+  line-height: 1;
+  text-align: left;
+}
+.videotext{
+  font-size: 14px;
+  font-family: "Myriad Pro";
+  color: rgb(138, 136, 136);
+  line-height: 1.571;
+  text-align: left;
+
+}
+.portfoliocouple{
+ 
+  font-size: 24px;
+  font-family: "Myriad Pro";
+  color: rgb(138, 136, 136);
+  line-height: 0.917;
+}
+.textportfolio{
+   
+  font-size: 14px;
+  font-family: "Myriad Pro";
+  color: rgb(138, 136, 136);
+  line-height: 1.571;
+  text-align: center;
+}
+.calout{
+    padding: 25px 0;
+    width: 100%;
+    background-color: rgb(50, 47, 47); 
+}
+.areYou{
+  font-size: 24px;
+  font-family: "Myriad Pro";
+  color: rgb(239, 239, 239);
+  line-height: 0.917;
+  text-align: left;
+}
+.clikhere{
+  
+  font-size: 14px;
+  font-family: "Myriad Pro";
+  color: rgb(255, 255, 255);
+  text-transform: uppercase;
+  line-height: 1.286;
+  text-align: left;
+  padding: 15px 0;
+  background-color: rgb(46, 204, 113);   
+}
+.copyright{ 
+  font-size: 12px;
+  font-family: "Myriad Pro";
+  color: rgb(165, 165, 165);
+  text-transform: uppercase;
+  line-height: 1.5;
+  padding: 25px 0;    
+}
+.footermenu{
+  font-size: 12px;
+  font-family: "Myriad Pro";
+  color: rgb(165, 165, 165);
+  text-transform: uppercase;
+  line-height: 1.5;
+    padding: 25px 0;
+  
+}
+.aboutus{  
+  background-color: rgb(46, 204, 113);
+}
+.aboutbusnes{
+  font-size: 30px;
+  font-family: "Novecentowide";
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  line-height: 0.6;
+    background-color: rgb(46, 204, 113);
+    padding:40px 0;
+}
+.aboutparagraphe{
+  font-size: 14px;
+  font-family: "HelveticaNeue";
+  color: rgb(138, 136, 136);
+  line-height: 1.571;
+  text-align: left;
+}
+.mainphoto{
+    padding: 50px 0;
+}
+.paragraphetitels{
+    padding-bottom: 35;
+}
+.mission{
+  font-size: 24px;
+  font-family: "Novecentowide";
+  color: rgb(138, 136, 136);
+  font-weight: bold;
+  line-height: 0.917;
+}
+.funFacts{
+  font-size: 24px;
+  font-family: "Novecentowide";
+  color: rgb(138, 136, 136);
+  font-weight: bold;
+  line-height: 0.917;
+}
+.missionparagraphe{
+  font-size: 14px;
+  font-family: "HelveticaNeue";
+  color: rgb(138, 136, 136);
+  line-height: 1.571;
+  text-align: left;
+}
+.funFactsparagraphe{
+  font-size: 14px;
+  font-family: "HelveticaNeue";
+  color: rgb(138, 136, 136);
+  line-height: 1.571;
+  text-align: left;
+}
+.tablesection{
+    padding: 50px 0;
+    width: 100%;
+    background-color: rgb(239, 239, 239); 
+}
+.map-container-7{
+overflow:hidden;
+padding-bottom:56.25%;
+position:relative;
+height:0;
+}
+.map-container-7 iframe{
+left:0;
+top:0;
+height:100%;
+width:100%;
+position:absolute;
+}    
+.map{
+    height: 100%;
+    width: 100%;
+}
+.contactform{
+    padding: 50px 0;
+}
+.list-style-buttons{
+    position: absolute; right: 0;
+}
+.myBtnContainer{
+    padding: 50px 0;
+}
+.showtype{
+  font-size: 18px;
+  font-family: "Novecentowide";
+  color: rgb(46, 204, 113);
+  font-weight: bold;
+  line-height: 1.222;
+  
+}
+
+.workdays{
+  font-size: 14px;
+  font-family: "HelveticaNeue";
+  color: rgb(138, 136, 136);
+  line-height: 1.571;
+  text-align: left;
+}
+.slidercont{
+    background-size: }
+
+
+
+
+
+
+
+
+
+
+.footer {
+    padding: 0%;
+}
+
+.portfoliocaption {
+    padding: 5%;
+    font-size: 24px;
+  font-family: "Myriad Pro";
+  color: rgb(138, 136, 136);
+  line-height: 0.917;
+    text-align: center;
+}
